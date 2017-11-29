@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contreras.Parcial2.DAL\Contreras.Parcial2.DAL.csproj" />
+    <ProjectReference Include="..\Contreras.Parcial2.EE\Contreras.Parcial2.EE.csproj" />
+  </ItemGroup>
+
+</Project>
